@@ -1,6 +1,6 @@
 # Customer-Segmentation
 
-Project attempts to create optimal segments of store customers with K-Means clustering models, to optimize marketing campaigns and effectively target each segment of customers, tailoring specific services to their needs.
+Project attempts to create optimal segments of store customers with K-Means clustering models, to optimize marketing campaigns and effectively target each segment of customers, tailoring specific products to their needs.
 
 ## Data
 Data set consists of information about 2000 individuals from a given area (could be representative of a county).
